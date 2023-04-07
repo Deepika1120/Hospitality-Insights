@@ -7,8 +7,6 @@ Sub Dashboard:
 
 
 ##About This Project:
-Special Thanks to Codebasics Team for conducting this challenge. It really helped on improving my Data Visualization Techniques.
-Codebasics had recently announced a challenge on their site and they have provided the dataset for analysis.
 
 ##Challenge: Provide Insights to revenue team in hospitality domain.Built a dashboard in Power BI to analyze three months sales data of different AtliQ hotels across four different cities.
 
